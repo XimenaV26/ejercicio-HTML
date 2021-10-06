@@ -1,0 +1,7 @@
+/*Tamaño del logo*/
+.medida {
+    height: 50px;
+    width: 225px;
+    display: block;
+    margin: auto;
+  }
